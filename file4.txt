@@ -2,4 +2,4 @@ Dear Git,
 
 I am adding some lines of text.
 
-Love Neal.
+from Neal.
